@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009218834724",
+    "project_id": "luminartest1",
+    "storage_bucket": "luminartest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009218834724:android:2f1454c4ee4655500563b1",
+        "android_client_info": {
+          "package_name": "com.example.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009218834724-611cjpanp8v3c1u5aulaegns0q90qc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwv7ZARwx09s6nOOirTUnnQgKt9Ya-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009218834724-611cjpanp8v3c1u5aulaegns0q90qc03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
